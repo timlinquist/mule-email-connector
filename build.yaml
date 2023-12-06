@@ -1,1 +1,4 @@
 projectType: extension
+additionalTestConfigs:
+  jdk8-fips:
+    testJdkTool: TEMURIN-JDK8-fips
